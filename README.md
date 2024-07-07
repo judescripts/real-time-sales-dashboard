@@ -1,5 +1,7 @@
 # Real-Time Sales Dashboard
 
+## Visit the blog here! 🔗 [Advanced Data Visualization Techniques with D3.js and Plotly](https://devtoys.io/2024/07/07/advanced-data-visualization-techniques-with-d3-js-and-plotly/)
+
 This DevToys.io blog tutorial project demonstrates how to create a real-time sales dashboard using D3.js and Plotly in a Node.js environment. The dashboard displays sales data that updates in real-time, leveraging both D3.js for intricate custom visualizations and Plotly for high-level, interactive charts.
 
 ## Project Overview
